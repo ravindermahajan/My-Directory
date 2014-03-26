@@ -1,0 +1,11 @@
+{
+    "name": "learningBower",
+    "version": "1.0.0",
+    "dependencies": {
+        "jquery": "1.8.x",
+        "backbone": "latest",
+        "bootstrap":"latest",
+        "aura" : "latest"
+
+    }
+}
